@@ -42,35 +42,9 @@ This project presents our methods, experiments, and findings related to the auto
 ## Demonstrations <a name="demos"></a>
 
 ### 1 Tests
-Routing result of a complete navigation task is depicted in the central subfigure, while the remaining subfigures display segments of the navigation tasks.
+Routing result of a complete navigation task is depicted in the central subfigure, while the remaining subfigures display segments of the navigation tasks. (Video pls see <a href="https://chenyingbing.github.io/xueshi_campus_av/">gitub.io</a>)
 
-<p float="left">
-  <video width="250" height="150" controls="true" autoplay="true" loop="loop" muted="muted">
-    <source src="./sources/demo_run0.mp4" type="video/mp4">
-  </video><video width="250" height="150" controls="true" autoplay="true" loop="loop" muted="muted">
-    <source src="./sources/demo_run1.mp4" type="video/mp4">
-  </video><video width="250" height="150" controls="true" autoplay="true" loop="loop" muted="muted">
-    <source src="./sources/demo_run2.mp4" type="video/mp4">
-  </video>
-</p>
-<p float="left">
-  <video width="250" height="150" controls="true" autoplay="true" loop="loop" muted="muted">
-    <source src="./sources/demo_ca1.mp4" type="video/mp4">
-  </video><video width="250" height="150" controls="true" autoplay="true" loop="loop" muted="muted">
-    <source src="./sources/demo_routing.mp4" type="video/mp4">
-  </video><video width="250" height="150" controls="true" autoplay="true" loop="loop" muted="muted">
-    <source src="./sources/demo_ca2.mp4" type="video/mp4">
-  </video>
-</p>
-<p float="left">
-  <video width="250" height="150" controls="true" autoplay="true" loop="loop" muted="muted">
-    <source src="./sources/demo_run3.mp4" type="video/mp4">
-  </video><video width="250" height="150" controls="true" autoplay="true" loop="loop" muted="muted">
-    <source src="./sources/demo_run4.mp4" type="video/mp4">
-  </video><video width="250" height="150" controls="true" autoplay="true" loop="loop" muted="muted">
-    <source src="./sources/demo_run5.mp4" type="video/mp4">
-  </video>
-</p>
+![teaser](./sources/fake_video1.jpg)
 
 <!-- <div style="display: flex;">
   <div style="flex: 1;">
@@ -139,24 +113,9 @@ Routing result of a complete navigation task is depicted in the central subfigur
 
 ### 2 Operational Records from OBS
 
-The videos were captured using OBS, depicting the operational processes of the autonomous shuttle. Individuals wearing blue attire in the videos represent security personnel responsible for emergency prevention.	
+The videos were captured using OBS, depicting the operational processes of the autonomous shuttle. Individuals wearing blue attire in the videos represent security personnel responsible for emergency prevention.	(Video pls see <a href="https://chenyingbing.github.io/xueshi_campus_av/">gitub.io</a>)
 
-<p float="left">
-  <video width="300" height="180" controls="true" autoplay="true" loop="loop" muted="muted">
-    <source src="./sources/demo_run3.mp4" type="video/mp4">
-  </video><video width="300" height="180" controls="true" autoplay="true" loop="loop" muted="muted">
-    <source src="./sources/demo_run4.mp4" type="video/mp4">
-  </video>
-</p>
-<p float="left">
-  <video width="250" height="150" controls="true" autoplay="true" loop="loop" muted="muted">
-    <source src="./sources/opera3.mp4" type="video/mp4">
-  </video><video width="250" height="150" controls="true" autoplay="true" loop="loop" muted="muted">
-    <source src="./sources/opera4.mp4" type="video/mp4">
-  </video><video width="250" height="150" controls="true" autoplay="true" loop="loop" muted="muted">
-    <source src="./sources/opera5.mp4" type="video/mp4">
-  </video>
-</p>
+![teaser](./sources/fake_video2.jpg)
 
 <!-- <div style="display: flex;">
   <div style="flex: 1;">
