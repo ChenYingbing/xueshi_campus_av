@@ -44,7 +44,35 @@ This project presents our methods, experiments, and findings related to the auto
 ### 1 Tests
 Routing result of a complete navigation task is depicted in the central subfigure, while the remaining subfigures display segments of the navigation tasks.
 
-<div style="display: flex;">
+<p float="left">
+  <video width="250" height="150" controls="true" autoplay="true" loop="loop" muted="muted">
+    <source src="./sources/demo_run0.mp4" type="video/mp4">
+  </video><video width="250" height="150" controls="true" autoplay="true" loop="loop" muted="muted">
+    <source src="./sources/demo_run1.mp4" type="video/mp4">
+  </video><video width="250" height="150" controls="true" autoplay="true" loop="loop" muted="muted">
+    <source src="./sources/demo_run2.mp4" type="video/mp4">
+  </video>
+</p>
+<p float="left">
+  <video width="250" height="150" controls="true" autoplay="true" loop="loop" muted="muted">
+    <source src="./sources/demo_ca1.mp4" type="video/mp4">
+  </video><video width="250" height="150" controls="true" autoplay="true" loop="loop" muted="muted">
+    <source src="./sources/demo_routing.mp4" type="video/mp4">
+  </video><video width="250" height="150" controls="true" autoplay="true" loop="loop" muted="muted">
+    <source src="./sources/demo_ca2.mp4" type="video/mp4">
+  </video>
+</p>
+<p float="left">
+  <video width="250" height="150" controls="true" autoplay="true" loop="loop" muted="muted">
+    <source src="./sources/demo_run3.mp4" type="video/mp4">
+  </video><video width="250" height="150" controls="true" autoplay="true" loop="loop" muted="muted">
+    <source src="./sources/demo_run4.mp4" type="video/mp4">
+  </video><video width="250" height="150" controls="true" autoplay="true" loop="loop" muted="muted">
+    <source src="./sources/demo_run5.mp4" type="video/mp4">
+  </video>
+</p>
+
+<!-- <div style="display: flex;">
   <div style="flex: 1;">
 
   <video width="400" height="200" controls="true" autoplay="true" loop="loop" muted="muted">
@@ -106,15 +134,31 @@ Routing result of a complete navigation task is depicted in the central subfigur
   </video>
   </div>
 
-</div>
-
+</div> -->
 
 
 ### 2 Operational Records from OBS
 
 The videos were captured using OBS, depicting the operational processes of the autonomous shuttle. Individuals wearing blue attire in the videos represent security personnel responsible for emergency prevention.	
 
-<div style="display: flex;">
+<p float="left">
+  <video width="300" height="180" controls="true" autoplay="true" loop="loop" muted="muted">
+    <source src="./sources/demo_run3.mp4" type="video/mp4">
+  </video><video width="300" height="180" controls="true" autoplay="true" loop="loop" muted="muted">
+    <source src="./sources/demo_run4.mp4" type="video/mp4">
+  </video>
+</p>
+<p float="left">
+  <video width="250" height="150" controls="true" autoplay="true" loop="loop" muted="muted">
+    <source src="./sources/opera3.mp4" type="video/mp4">
+  </video><video width="250" height="150" controls="true" autoplay="true" loop="loop" muted="muted">
+    <source src="./sources/opera4.mp4" type="video/mp4">
+  </video><video width="250" height="150" controls="true" autoplay="true" loop="loop" muted="muted">
+    <source src="./sources/opera5.mp4" type="video/mp4">
+  </video>
+</p>
+
+<!-- <div style="display: flex;">
   <div style="flex: 1;">
 
   <video width="400" height="200" controls="true" autoplay="true" loop="loop" muted="muted">
@@ -147,7 +191,7 @@ The videos were captured using OBS, depicting the operational processes of the a
     <source src="./sources/opera5.mp4" type="video/mp4">
   </video>
   </div>
-</div>
+</div> -->
 
 
 
